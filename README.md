@@ -4,7 +4,7 @@ AspNet Mvc5, Code First and MsSql Database
 
 Travel Trip Project AspNet Mvc ile oluşturulan bir projedir. Bu proje seyahat etmeyi ve yeni yerler keşfetmeyi sevenler için güzel bir anı birikimi ve aynı zamanda diğer insanlar için bir rehber niteliğindedir.
 İçeriğinde blog sayfası ile ziyaret edilen ülkelerin bilgilendirici kısa metinleri, anı resimleri, Hakkımda sayfası, Rehber sayfası ile uygun otel, tavsiye edilen restoranlar ve mutlaka görülmesi gereken müzeler ile ilgili uygun sayfalara yönlendirme 
-ve ayrıca iletişim sayfası ile admine mail gönderme ve adres bilgiis haritası mevcuttur.
+ve ayrıca iletişim sayfası ile admine mail gönderme ve adres bilgisi haritası mevcuttur.
 Admin sayfasında gelen yorumları silme ve güncelleme, yeni blog yazıları ekleme ve var olanı güncelleme, direkt sayfaya yönlendirme ve sistemden çıkış yap seçenekleri mevcuttur.
 
 
